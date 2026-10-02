@@ -15,7 +15,7 @@
         <!-- Java Servlet API -->
         <dependency>
             <groupId>javax.servlet</groupId>
-            <artificatId>servlet-api</artificatId>
+            <artifactId>servlet-api</artifactId>
             <version>3.1-b05</version>
         </dependency>
         <!-- MySQL Connector -->
